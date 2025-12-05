@@ -6,9 +6,9 @@ import { Box } from '@mui/material';
 import config from './config'; // Import the config file with environment variable support
 
 // Use the config to define API URLs
-const GET_TASKS_API_BASE_URL = "http://get-tasks-api.jhandu.shop";
-const DELETE_TASK_API_BASE_URL = "http://delete-task-api.jhandu.shop";
-const CREATE_TASK_API_BASE_URL = "http://add-task-api.jhandu.shop";
+const GET_TASKS_API_BASE_URL = "http://get-tasks-api.tanishka.store";
+const DELETE_TASK_API_BASE_URL = "http://delete-task-api.tanishka.store";
+const CREATE_TASK_API_BASE_URL = "http://add-task-api.tanishka.store";
 
 //Update Task Functionality is Work In Progress
 // const UPDATE_TASK_API_BASE_URL = '';
